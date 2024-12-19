@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto_restaurante</string>
+    <string name="total">TOTAL</string>
+    <string name="propina">Propina</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="pastel_de_choclo">Pastel de Choclo</string>
+    <string name="cant">Cant.</string>
+    <string name="comida">Comida</string>
+    <string name="cantidad_de_pastel_de_choclo">Cantidad de pastel de choclo</string>
+    <string name="cantidad_de_cazuela">Cantidad de cazuela</string>
+</resources>
